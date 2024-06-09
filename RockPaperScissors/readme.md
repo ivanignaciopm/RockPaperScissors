@@ -21,5 +21,3 @@ In the code we will review how this work specificly.
 ### ¿Cómo funciona `Math.floor`?
 
 - `Math.floor()` redondea hacia abajo al entero más cercano. Por ejemplo, `Math.floor(3.9)` resulta en 3.
-
-gi
